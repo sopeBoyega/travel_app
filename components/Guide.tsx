@@ -17,7 +17,7 @@ const Guide = () => {
             lost again, because we already support offline maps when there is no
             internet connection in the field. Invite your friends, relatives and
             friends to have fun in the wilderness through the valley and reach
-            the top of the mountain
+            the top of the mountain.
           </p>
         </div>
       </div>
